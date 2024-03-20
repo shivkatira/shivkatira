@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+|**DOI**|**Publication**|
+| - | - |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8248331.svg)](https://doi.org/10.5281/zenodo.8248331) | Katira, Shiv. “The Implication of Blockchain Technology in the Emission Trading Scheme of Gujarat”. |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5784870.svg)](https://doi.org/10.5281/zenodo.5784870) | Katira, Shiv, and Justin John. “A Hypothetical Testing of Privatization of Bharat Petroleum Corporation Limited and Its Future Financial Performance: An Impact on Indian Economy”. |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5594778.svg)](https://doi.org/10.5281/zenodo.5594778) | Katira, Shiv. “A Critical Analysis of Disinvestment in Bharat Petroleum Corporation Limited: Future Financial Performance and Impact on Indian Economy”. |
