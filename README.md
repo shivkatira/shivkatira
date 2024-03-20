@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Featured Work
+
+<p align="center">
+<a href="https://github.com/shivkatira/8-week-sql-challenge">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shivkatira&repo=8-week-sql-challenge&show_owner=true&theme=dark" />
+</a>
+</p>
