@@ -51,4 +51,12 @@ class Person:
 
 ```
 
+### Featured Work
+
+<p align="center">
+<a href="https://github.com/shivkatira/8-week-sql-challenge">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shivkatira&repo=8-week-sql-challenge&show_owner=true&theme=dark" />
+</a>
+</p>
+
 <img src="assets/banner.svg" width=1080>
