@@ -1,5 +1,7 @@
 # <img src="assets/emoji_1.gif" width=30 height=30/> Hey! Nice to see you.
 
+<img src="assets/banner.gif" width=1080>
+
 🚀 Data Analytics professional from Kolkata, India <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="20" height="20"/> , actively driving insights at Kantar, specializing in consumer behavioral and retail performance analysis for FMCG brands. 💼 Research Manager passionate about leveraging data science for strategic decision-making, with a keen eye for detail in transforming data into actionable strategies. Formerly at NielsenIQ's Global Transformation Team as Analyst Innovation & Automation, focusing on automation and data science projects for retail measurement. 📈 Enthusiastic about Business Intelligence (BI) and crafting innovative solutions for data-driven decision-making. 🎓 Masters in Economics, undergrad in Business Management, intermediate level CMA. 🔍 Committed to driving data excellence and innovation. 🌐 Open to exciting opportunities in driving data excellence and elevating businesses to new heights! Let's connect and explore possibilities! 👋
 
 - 🔭 I’m currently working on [8-week-sql-challenge](https://github.com/shivkatira/8-week-sql-challenge).
@@ -48,3 +50,5 @@ class Person:
         self.same_as = 'https://www.linkedin.com/in/smkatira/'
 
 ```
+
+<img src="assets/banner.svg" width=1080>
