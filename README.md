@@ -11,21 +11,27 @@
       <meta property="og:title" content="Shiv Katira" />
    </head>
    <body>
-      <h1> <img src="https://media.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" width=30 height=30/> Hey! I'm Shiv Katira, nice to see you. </h1>
-      <img src="assets/banner.gif" width="100%">
+      <h1 align="center"> <img src="https://media.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" alt="Party Parrot India" width=30 height=30/> Hey! Nice to see you. </h1>
+      </br>
+      <div align="center">
+         <a href="mailto:shivkatira@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=true&width=435&lines=%3Cp%3E+Hey+there%2C+I'm+Shiv+Katira.+%3C%2Fp%3E" alt="Typing SVG" /></a>
+      </div>
+      </br>
       <p align="justify">
          🚀 Data Analytics professional from Kolkata, India <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="20" height="20"/> , actively driving insights at Kantar, specializing in consumer behavioral and retail performance analysis for FMCG brands. 💼 Research Manager passionate about leveraging data science for strategic decision-making, with a keen eye for detail in transforming data into actionable strategies. Formerly at NielsenIQ's Global Transformation Team as Analyst Innovation & Automation, focusing on automation and data science projects for retail measurement. 📈 Enthusiastic about Business Intelligence (BI) and crafting innovative solutions for data-driven decision-making. 🎓 Masters in Economics, undergrad in Business Management, intermediate level CMA. 🔍 Committed to driving data excellence and innovation. 🌐 Open to exciting opportunities in driving data excellence and elevating businesses to new heights! Let's connect and explore possibilities! 👋
       </p>
-      <p align="justify">
+      <p align="center">
          Click <a href="https://media.licdn.com/dms/document/media/D4D2DAQG2NBJV8KR98g/profile-treasury-document-pdf-analyzed/0/1698493088542?e=1712188800&v=beta&t=Jf_gCjyveIHhb8MGQ1N_rjMeeM8YW3G-st6Ptulb9nE">here</a> to check out my CV and learn more about my experience and skills!
       </p>
-      <p align="center">
+      </br>
+      <div align="center">
          <a href="mailto:shivkatira@gmail.com"><img src="https://img.shields.io/badge/shivkatira%40gmail.com-Gmail?style=social&logo=gmail&link=mailto%3Ashivkatira%40gmail.com" alt="Gmail"></a>
          <a href="https://www.linkedin.com/in/smkatira/"><img src="https://img.shields.io/badge/Shiv Katira-LinkedIn?style=social&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsmkatira%2F" alt="LinkedIn"></a>
          <a href="https://github.com/shivkatira"><img src="https://img.shields.io/badge/shivkatira-Github?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2Fshivkatira%2F" alt="GitHub"></a>
-         <a href="https://leetcode.com/shivkatira/"><img src="https://img.shields.io/badge/Shiv Katira-LeetCode?style=social&logo=leetcode&link=https%3A%2F%2Fleetcode.com%2F" alt="LeetCode"></a>
+         <a href="https://leetcode.com/shivkatira/"><img src="https://img.shields.io/badge/Shiv Katira-LeetCode?style=social&logo=leetcode&link=https%3A%2F%2Fleetcode.com%2Fshivkatira%2F" alt="LeetCode"></a>
          <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Katira%2C%20Shiv%22"><img src="https://img.shields.io/badge/Katira%2C%20Shiv-Zenodo?style=social&logo=zenodo&link=https%3A%2F%2Fzenodo.org%2Fsearch%3Fq%3Dmetadata.creators.person_or_org.name%253A%2522Katira%252C%2520Shiv%2522" alt="Zenodo"></a>
-      </p>
+      </div>
+      </br>
       <table align="center">
          <tr>
             <th colspan=2> Tech Stack </th>
@@ -96,6 +102,18 @@
          </tr>
          <tr>
             <td>
+               IDE & Environment
+            </td>
+            <td>
+               <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-Visual%20Studio%20Code?style=social&logo=visualstudiocode&link=https%3A%2F%2Fcode.visualstudio.com%2F" alt="Visual Studio Code"></a>
+               <a href="https://www.spyder-ide.org/"><img src="https://img.shields.io/badge/Spyder-Spyder?style=social&logo=spyderide&link=https%3A%2F%2Fwww.spyder-ide.org%2F" alt="Spyder"></a>
+               <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Jupyter?style=social&logo=jupyter&link=https%3A%2F%2Fjupyter.org%2F" alt="Jupyter"></a>
+               <a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/Anaconda-Anaconda?style=social&logo=anaconda&link=https%3A%2F%2Fwww.anaconda.com%2F" alt="Anaconda"></a>
+               <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-Google%20Colab?style=social&logo=googlecolab&link=https%3A%2F%2Fcolab.research.google.com%2F" alt="Google Colab"></a>
+            </td>
+         </tr>
+         <tr>
+            <td>
                RPA
             </td>
             <td>
@@ -103,14 +121,15 @@
             </td>
          </tr>
       </table>
+      </br>
       <table align="center">
          <tr>
             <th>
                DOI
             </th>
-            <td>
+            <th>
                Publication
-            </td>
+            </th>
          </tr>
          <tr>
             <td>
@@ -148,17 +167,18 @@
             </td>
          </tr>
       </table>
+      </br>
       <div align="center">
          <a href="https://github.com/shivkatira/8-week-sql-challenge">
          <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shivkatira&repo=8-week-sql-challenge&show_owner=true&theme=transparent" />
          </a>
       </div>
+      </br>
       <div align="center">
-         <a href="https://www.credly.com/badges/07c06013-95cc-460f-92aa-55a7bc26e886/public_url"><img class="image-container" src="https://images.credly.com/size/220x220/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" alt="Applied Data Science with Python - Level 2" width="110" height="110"></a>
-         <a href="https://www.credly.com/badges/c11679d6-72b8-4757-937c-d83c7fc779d3/public_url"><img class="image-container" src="https://images.credly.com/size/220x220/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="Python for Data Science" width="110" height="110"></a>
-         <a href="https://www.credly.com/badges/0bed4fdc-0d63-42e5-b724-fbc4b46b7f61/public_url"><img class="image-container" src="https://images.credly.com/size/220x220/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png" alt="Data Visualization Using Python" width="110" height="110"></a>
-         <a href="https://www.credly.com/badges/d512873a-3e1a-46ac-9e1b-3a78dce78b6f/public_url">
-         <img class="image-container" src="https://images.credly.com/size/220x220/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" alt="Data Analysis Using Python" width="110" height="110"></a>
+         <a href="https://www.credly.com/badges/07c06013-95cc-460f-92aa-55a7bc26e886/public_url"><img src="https://images.credly.com/size/220x220/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" alt="Applied Data Science with Python - Level 2" width="110" height="110"></a>
+         <a href="https://www.credly.com/badges/c11679d6-72b8-4757-937c-d83c7fc779d3/public_url"><img src="https://images.credly.com/size/220x220/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="Python for Data Science" width="110" height="110"></a>
+         <a href="https://www.credly.com/badges/0bed4fdc-0d63-42e5-b724-fbc4b46b7f61/public_url"><img src="https://images.credly.com/size/220x220/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png" alt="Data Visualization Using Python" width="110" height="110"></a>
+         <a href="https://www.credly.com/badges/d512873a-3e1a-46ac-9e1b-3a78dce78b6f/public_url"><img src="https://images.credly.com/size/220x220/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" alt="Data Analysis Using Python" width="110" height="110"></a>
       </div>
    </body>
 </html>
