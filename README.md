@@ -27,7 +27,7 @@
       <div align="center">
          <a href="mailto:shivkatira@gmail.com"><img src="https://img.shields.io/badge/shivkatira%40gmail.com-Gmail?style=social&logo=gmail&link=mailto%3Ashivkatira%40gmail.com" alt="Gmail"></a>
          <a href="https://www.linkedin.com/in/smkatira/"><img src="https://img.shields.io/badge/Shiv Katira-LinkedIn?style=social&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsmkatira%2F" alt="LinkedIn"></a>
-         <a href="https://github.com/shivkatira"><img src="https://img.shields.io/badge/shivkatira-Github?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2Fshivkatira%2F" alt="GitHub"></a>
+         <a href="https://github.com/shivkatira"><img src="https://img.shields.io/badge/Shiv Katira-Github?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2Fshivkatira%2F" alt="GitHub"></a>
          <a href="https://leetcode.com/shivkatira/"><img src="https://img.shields.io/badge/Shiv Katira-LeetCode?style=social&logo=leetcode&link=https%3A%2F%2Fleetcode.com%2Fshivkatira%2F" alt="LeetCode"></a>
          <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Katira%2C%20Shiv%22"><img src="https://img.shields.io/badge/Katira%2C%20Shiv-Zenodo?style=social&logo=zenodo&link=https%3A%2F%2Fzenodo.org%2Fsearch%3Fq%3Dmetadata.creators.person_or_org.name%253A%2522Katira%252C%2520Shiv%2522" alt="Zenodo"></a>
       </div>
